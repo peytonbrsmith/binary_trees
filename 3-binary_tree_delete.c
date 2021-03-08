@@ -3,7 +3,7 @@
 /**
  * binary_tree_delete - deletes a binary tree
  *
- * @tree: pointer to tree to delete 
+ * @tree: pointer to tree to delete
  *
  * Return: VOID
  */
